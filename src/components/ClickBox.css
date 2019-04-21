@@ -1,0 +1,8 @@
+.ClickBox {
+  position: relative;
+  background: red;
+}
+
+.ClickBox.tall {
+  height: 50vh;
+}
